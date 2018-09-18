@@ -1,6 +1,6 @@
 # JavaExcercises
 
-This repository contains fully commented java game zone excercises from the book: Java Programming, 8th Edition by Joyce Farrell
+This repository contains fully commented java game zone excercises from my uni
 
 This readme file will contain a list of all availabel excercises and what chapter and question they relate to.
 
@@ -17,3 +17,4 @@ This readme file will contain a list of all availabel excercises and what chapte
 * Cards V2 - Chp5 GZ Q3
 * Die V2 - Chp5 GZ Q4
 * RockPaperSissors - Chp5 GZ Q5
+
